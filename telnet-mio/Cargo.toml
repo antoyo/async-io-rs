@@ -1,0 +1,7 @@
+[package]
+authors = ["Antoni Boucher <bouanto@zoho.com>"]
+name = "telnet-mio"
+version = "0.1.0"
+
+[dependencies]
+mio = "^0.6.9"
