@@ -1,0 +1,7 @@
+[package]
+authors = ["Antoni Boucher <bouanto@zoho.com>"]
+name = "telnet-epoll"
+version = "0.1.0"
+
+[dependencies]
+libc = "^0.2.26"

@@ -1,0 +1,14 @@
+[root]
+name = "telnet-epoll"
+version = "0.1.0"
+dependencies = [
+ "libc 0.2.26 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "libc"
+version = "0.2.26"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum libc 0.2.26 (registry+https://github.com/rust-lang/crates.io-index)" = "30885bcb161cf67054244d10d4a7f4835ffd58773bc72e07d35fecf472295503"
